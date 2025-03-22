@@ -1,8 +1,8 @@
-## Hi there, I'm Ruvinya Fernando! 👋  
+## Hi there, I'm Ruvinya Fernando! 👋  <br><br>
 
 ### 🚀 About Me  
 
-I am a passionate Software Quality Assurance Engineer specializing in both Automation Testing and Manual Testing. With a strong foundation in software engineering and quality assurance, I am dedicated to ensuring the delivery of high-quality software solutions. 
+I am a passionate Software Quality Assurance Engineer specializing in both Automation Testing and Manual Testing. With a strong foundation in software engineering and quality assurance, I am dedicated to ensuring the delivery of high-quality software solutions. <br><br>
 
 ---
 
@@ -26,15 +26,16 @@ I am a passionate Software Quality Assurance Engineer specializing in both Autom
 
 ---
 
-### 🎓 Education  
+### 🎓 Education  <br><br>
+
 
 🎓 BSc (Hons) in Software Engineering – University of Plymouth  
-🎓 MSc in Computer Science (Reading) – University of Peradeniya  
+🎓 MSc in Computer Science (Reading) – University of Peradeniya  <br><br>
 
 ---
 
-### 📫 Connect with Me  
+### 📫 Connect with Me  <br><br>
 
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruvinyaf)  
-📧 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruvinyafernando@gmail.com)    
+📧 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruvinyafernando@gmail.com)    <br><br><br>
 
